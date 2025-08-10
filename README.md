@@ -15,7 +15,7 @@ the examples and patterns immediately.
 
 
  ![Quick Links](https://img.shields.io/badge/Quick-Links-lightgrey)  
-- ⚙️ [Core Java fundamentals](core-java/core-java.md)
+- ☕ [Core Java fundamentals](core-java/core-java.md)
 - 🔗 [Selenium Commands](selenium/commands.md)
 - 🔍 [Selenium Locators](selenium/locators.md)
 - ⏱️ [Selenium Waits](selenium/waits.md)

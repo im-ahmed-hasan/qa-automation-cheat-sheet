@@ -37,5 +37,9 @@ the examples and patterns immediately.
 This is not just code snippets. Each block includes a short purpose, usage notes, and best practices.
 It’s designed to impress a peer who opens it and say thanks.
 
-## License
-Pick a license you prefer before publishing (MIT is a common choice).
+## :memo: License ##
+
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
+
+
+Made with :heart: by <a href="https://github.com/im-ahmed-hasan" target="_blank">Ahmed Hasan</a>

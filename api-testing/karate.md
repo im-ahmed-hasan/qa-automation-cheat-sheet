@@ -10,7 +10,7 @@ Scenario: Get User Details
   Given url 'https://reqres.in/api/users/2'
   When method get
   Then status 200
-  And match $.data.first_name == 'Janet'
+  And match $.data.first_name == 'Ahmed'
 ```
 
 ## Tips

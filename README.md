@@ -14,7 +14,7 @@ the examples and patterns immediately.
 - All files are Markdown so they are easy to read, fork and extend
 
 ## Quick Links
-- [Core Java fundamentals](core-java/core-java.md)]
+- [Core Java fundamentals](core-java/core-java.md)
 - [Selenium Commands](selenium/commands.md)
 - [Selenium Locators](selenium/locators.md)
 - [Selenium Waits](selenium/waits.md)

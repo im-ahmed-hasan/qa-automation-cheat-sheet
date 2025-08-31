@@ -1,11 +1,11 @@
 # 🚀 QA Automation Cheat Sheet 
 
 A polished, practical, and reference-ready cheat sheet for QA automation engineers.
-This repo is designed so anyone can clone it, browse the content, and start using
+This repo is designed so anyone can clone it, browse the content and start using
 the examples and patterns immediately.
 
 ## :dart: What this repo contains ##
-- Complete Selenium reference with commands, locators, waits, and JavaScript executor
+- Complete Selenium reference with commands, locators, waits and JavaScript executor
 - TestNG lifecycle and data-driven testing patterns
 - API testing with RestAssured and Karate (BDD)
 - CI/CD example using GitHub Actions

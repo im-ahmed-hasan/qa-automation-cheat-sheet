@@ -41,7 +41,7 @@ It’s designed to impress a peer who opens it and say thanks.
 
 ## :memo: License ##
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+This project is licensed under the GNU Affero General Public License. For more details, please refer to the [LICENSE](LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/im-ahmed-hasan" target="_blank">Ahmed Hasan</a>
